@@ -2,7 +2,7 @@
 
 ![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)
 
-Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
+Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño.
 
 Este es el archivo `README.md` principal del repositorio, pero cada carpeta tiene su propio archivo `README.md` que describe a los archivos o subcarpetas incluidas. Para escribir en estos archivos debes utilizar [lenguaje markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
@@ -18,4 +18,4 @@ El objetivo general de una documentación es **facilitar la colaboración y repl
 
 # fotos
 
-![foto paisaje](paisaje.jpg)
+![foto paisaje](img/fotografo-paisajes.jpg)
