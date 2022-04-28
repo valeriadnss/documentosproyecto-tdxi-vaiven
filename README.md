@@ -18,3 +18,4 @@ El objetivo general de una documentación es **facilitar la colaboración y repl
 
 # fotos
 
+![foto paisas](paisaje)
