@@ -14,3 +14,7 @@ En este `README.md` principal debes incorporar:
 - Declarar herramientas y tecnologías utilizadas
 
 El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus materiales y métodos.
+
+
+# fotos
+
